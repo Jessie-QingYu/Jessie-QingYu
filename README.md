@@ -12,7 +12,15 @@
 - 🌱 I'm currently learning **Software Development and Machine Learning**.
 - ⛰️ Fun fact: I'm an avid hiker and spend almost every weekend exploring new trails.
 - 💬 Feel free to reach out to me for assistance or discussion on any topic.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/qing-yu-6b1803261/) or [My Personal Website]
+
+### Connect with me on 👇
+<a href="https://www.linkedin.com/in/qing-yu-6b1803261/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn--blue" />
+</a>
+
+<a href="https://www.hackerrank.com/yu_qing4" target="_blank">
+<img src="https://img.shields.io/badge/HackerRank--blue" />
+</a> 
 
 <hr />
 
@@ -37,10 +45,13 @@
   <img src="https://profile-counter.glitch.me/Jessie-QingYu/count.svg" />
 </p>
 
-<!-- Profile Views -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jessie-QingYu&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=Jessie-QingYu&label=Profile%20views&color=0e75b6&style=flat"/>
+  <img src="https://img.shields.io/github/forks/Jessie-QingYu/Jessie-QingYu?style=social"/>
 </p>
+
+
 
 <!--- ### Certifications 📜
 - [Practical Reinforcement Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/AUVVSHZFH7XZ) @ Coursera
