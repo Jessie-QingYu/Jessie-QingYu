@@ -31,8 +31,15 @@
 <hr />
 
 ### My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 20px> 
-|<img src="https://github-readme-stats.vercel.app/api?username=Jessie-QingYu&show_icons=true&theme=gotham&hide=issues&count_private=true" />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessie-QingYu&layout=compact&theme=gotham" />| <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jessie-QingYu&theme=gotham" />| 
-| ------------- | ------------- | ------------- |
+<div align="center">
+  
+|<img src="https://github-readme-stats.vercel.app/api?username=Jessie-QingYu&show_icons=true&theme=gotham&hide=issues&count_private=true" width = 500px />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessie-QingYu&layout=compact&theme=gotham" width = 330px />| 
+| ------------- | ------------- |
+
+|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jessie-QingYu&theme=gotham" width = 500px />|<img src="./developer.gif" width = 330px /> |
+| ------------- | ------------- |
+
+</div>
 
 <p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=Jessie-QingYu&label=views&color=blue&style=flat"/>
