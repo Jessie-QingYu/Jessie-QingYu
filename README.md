@@ -18,7 +18,10 @@
 - 🗄️ Tech Stacks and Databases: MongoDB, MySQL, Redis, REST API，Node.js
 - 🛠️ Tools: Git, AWS, Docker, Tableau, Figma
 
-### 📈  My GitHub Stats
+### My GitHub Stats
 
-|<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jessie-QingYu&show_icons=true&theme=gotham" alt="Jessie-QingYu"/>| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessie-QingYu&layout=compact&theme=gotham"/>|
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jessie-QingYu&show_icons=true&theme=gotham&hide=issues&count_private=true"/>| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessie-QingYu&layout=compact&theme=gotham"/>|
 | ------------- | ------------- |
+
+|<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jessie-QingYu&theme=dark">|
+| ------------- |
