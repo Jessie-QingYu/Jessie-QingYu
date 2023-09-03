@@ -13,10 +13,12 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/qing-yu-6b1803261/) or [My Personal Website]
 
 ### My Skills
-- 🌐 Languages: Python, Java, Kotlin, HTML/CSS, JavaScript/TypeScript, SQL, C++, Shell, MATLAB, R
-- 🔨 Framworks: Express, Django, Spring Boot, React, React Native, Jest
-- ⚙ Tech Stack: Node.js, MongoDB, MySQL, Redis, REST API
+- 💻 Languages: Python, Java, Kotlin, HTML/CSS, JavaScript/TypeScript, SQL, C, C++, Shell, MATLAB, R
+- 🧳 Framworks and Libraries: Express, Django, Spring Boot, React, React Native, Jest, Numpy, Pandas
+- 🗄️ Tech Stacks and Databases: MongoDB, MySQL, Redis, REST API，Node.js
 - 🛠️ Tools: Git, AWS, Docker, Tableau, Figma
 
 ### 📈  My GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jessie-QingYu&show_icons=true&theme=gotham" alt="Jessie-QingYu" />
+
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jessie-QingYu&show_icons=true&theme=gotham" alt="Jessie-QingYu"/>| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessie-QingYu&layout=compact&theme=gotham"/>|
+| ------------- | ------------- |
