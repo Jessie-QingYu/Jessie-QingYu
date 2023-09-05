@@ -16,7 +16,7 @@
 ### Connect with me on 👇
 [![GitHub](https://img.shields.io/badge/GitHub-QingYu-informational?style=flate&logo=github&logoColor=white)](https://github.com/Jessie-QingYu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-QingYu-informational?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qing-yu-6b1803261/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-QingYu-informational?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/JessieQingYu)
+[![HackerRank](https://img.shields.io/badge/HackerRank-QingYu-informational?style=flat&logo=hackerrank&logoColor=white)]()
 [![LeetCode](https://img.shields.io/badge/LeetCode-QingYu-informational?style=flat&logo=leetcode&logoColor=white)]()
 [![Website](https://img.shields.io/badge/Website-QingYu-informational?style=flat&logo=githubpages&logoColor=white)]()
 
