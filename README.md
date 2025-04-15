@@ -1,6 +1,6 @@
 <h2 align="center">Hi there, I'm Jessie (Qing Yu) 👋</h2>
 
-### I'm open to 2024 Summer/Winter Internship/CO-OP
+### I'm open to 2025 Summer/Fall Internships/CO-OPs
 
 <hr />
 
@@ -21,10 +21,9 @@
 <hr />
 
 ### My Skills
-- 💻 **Languages**: Python, Java, Kotlin, HTML/CSS, JavaScript/TypeScript, SQL, C, C++, Shell, MATLAB, R
-- 🧳 **Framworks and Libraries**: Express, Django, Spring Boot, React, React Native, Jest, Numpy, Pandas
-- 🗄️ **Tech Stacks and Databases**: MongoDB, MySQL, Redis, REST API，Node.js
-- 🛠️ **Tools**: Git, AWS, Docker, Tableau, Figma
+- 🧳 **Domains**: Machine Learning, Deep Learning, LLM, NLP, Computer Vision, Web/Mobile development
+- 💻 **Languages**: Python, Java, C++, SQL, R, JavaScript/TypeScript, HTML/CSS
+- 🛠️ **Technologies**: PyTorch, TensorFlow, Scikit-learn, LangChain, DSPy, AWS, Docker, MongoDB, Django, React, Next.js
 
 <hr />
 
