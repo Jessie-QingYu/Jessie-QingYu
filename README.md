@@ -41,6 +41,5 @@
 <p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=Jessie-QingYu&label=views&color=blue&style=flat"/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Jessie-QingYu&label=visitors&color=blue&style=flat"/>
-  <img src="https://img.shields.io/github/last-commit/Jessie-QingYu/Jessie-QingYu?label=updated&style=flat&color=blue">
 </p>
 
