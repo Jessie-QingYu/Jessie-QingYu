@@ -33,8 +33,6 @@
 |<img src="https://github-readme-stats.vercel.app/api?username=Jessie-QingYu&show_icons=true&theme=gotham&hide=issues&count_private=true" width = 500px />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessie-QingYu&layout=compact&theme=gotham" width = 330px />| 
 | ------------- | ------------- |
 
-|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jessie-QingYu&theme=gotham" width = 500px />|<img src="./developer.gif" width = 330px /> |
-| ------------- | ------------- |
 
 </div>
 
